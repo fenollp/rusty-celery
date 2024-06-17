@@ -45,7 +45,7 @@ celery-codegen = { version = "0.5.5", path = "./celery-codegen", optional = true
 colored = "2"
 once_cell = { version = "1.17" }
 globset = "0.4"
-hostname = "0.3"
+hostname = "0.4"
 redis = { version = "0.22", features=["connection-manager", "tokio-comp"] }
 tokio-executor-trait = "2.1"
 tokio-reactor-trait = "1.1"
